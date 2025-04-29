@@ -1,0 +1,10 @@
+{
+    "api_key": "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",
+                
+    "model_name": "gpt-4o",
+    "generation_config": {
+        "temperature": 0.1,
+        "top_p": 0.9,
+        "max_tokens": 4096
+    }
+}
