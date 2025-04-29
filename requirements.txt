@@ -5,7 +5,7 @@ webdriver-manager
 openai
 transformers
 nltk
-sklearn
+sklearn==1.2.2
 spacy
 pandas
 requests
