@@ -136,3 +136,5 @@ websocket-client==1.8.0
 wheel==0.44.0
 wsproto==1.2.0
 yarl==1.17.1
+selenium
+webdriver-manager
