@@ -5,6 +5,7 @@ webdriver-manager
 openai
 transformers
 nltk
+sklearn
 spacy
 pandas
 requests
